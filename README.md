@@ -1,7 +1,6 @@
 # FP20-Analytics-Challenge-2 : Mediterranean Camera Company
----
 
-Dashboard
+## Dashboard
 
 ![FP20_Dashboard_1](https://user-images.githubusercontent.com/58556052/227779323-d2155d69-2c1b-468c-b919-84b1d914f8e7.png)
 
